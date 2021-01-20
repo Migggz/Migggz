@@ -1,5 +1,5 @@
 <p align="right">
-  <a href="https://reactjs.org/" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=migggz&style=flat-square" alt="Profile Views" />
   </a>
 </p>
