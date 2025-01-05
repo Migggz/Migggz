@@ -22,8 +22,6 @@
 
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs
 
-- 📝 &nbsp; Check out my [Resume](https://migggz.me/MagedMohamed-Resume.pdf).
-
 - 📝 &nbsp; Available for hire, [Drop me a letter](mailto:MagedMohammed16@GMail.Com).
 
 <p>&nbsp;</p>
@@ -47,12 +45,6 @@
   </a>
   <a target="_blank">
     <img src="https://img.shields.io/badge/Styled Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components" />
-  </a>
-  <a target="_blank">
-    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js" />
-  </a>
-  <a target="_blank">
-    <img src="https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white" alt="Nuxt.js" />
   </a>
   <a target="_blank">
     <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
