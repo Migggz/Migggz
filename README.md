@@ -11,7 +11,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=migggz&theme=nord&margin-w=15" alt="Github Profile Trophy" />
 </p>
 
-<p align="center">I Have more than 4 years of experience with a computer science background, working in startups with various frontend technologies to achieve the best performance and smooth user experience.</p>
+<p align="center">I Have more than 8 years of experience with a computer science background, working in startups with various frontend technologies to achieve the best performance and smooth user experience.</p>
 <p>&nbsp;</p>
  
 <img align="right" height="200" alt="" src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy-downsized.gif" />
